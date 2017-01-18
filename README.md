@@ -1,6 +1,5 @@
-# SubControl
-Java ground station for ROVs with serial interfaces and USB webcams
+# ArmControl
+Fork of SubControl designed for robot arms.
 
-#Download
-To download a windows executable version of this project, click here:
-http://s000.tinyupload.com/download.php?file_id=55431702046237594217&t=5543170204623759421718817
+### requirements:
+1. 
